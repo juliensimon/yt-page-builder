@@ -7,11 +7,7 @@
 [![Issues](https://img.shields.io/badge/Issues-Welcome-orange.svg)](https://github.com/your-username/yt-page-builder/issues)
 [![yt-dlp](https://img.shields.io/badge/yt--dlp-Latest-red.svg)](https://github.com/yt-dlp/yt-dlp)
 [![spaCy](https://img.shields.io/badge/spaCy-3.7+-orange.svg)](https://spacy.io/)
-[![DistilWhisper](https://img.shields.io/badge/DistilWhisper-Latest-purple.svg)](https://github.com/guillaumekln/faster-whisper)
-[![Stars](https://img.shields.io/github/stars/your-username/yt-page-builder?style=social)](https://github.com/your-username/yt-page-builder)
-[![Forks](https://img.shields.io/github/forks/your-username/yt-page-builder?style=social)](https://github.com/your-username/yt-page-builder)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/your-username/yt-page-builder)
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/yt-page-builder)](https://github.com/your-username/yt-page-builder/commits/main)
+(https://github.com/your-username/yt-page-builder/commits/main)
 [![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](https://github.com/your-username/yt-page-builder/actions)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-YouTube%20Collection-blue.svg)](https://www.julien.org/youtube/2025/index.html)
 
