@@ -1,0 +1,10 @@
+# Core dependencies
+requests>=2.31.0
+tqdm>=4.65.0
+
+# Optional: For advanced tag generation (if using spaCy instead of API)
+# spacy>=3.7.0
+# python -m spacy download en_core_web_sm
+
+# Optional: For enhanced path handling (Python < 3.4)
+# pathlib2>=2.3.7

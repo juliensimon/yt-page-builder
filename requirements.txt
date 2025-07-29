@@ -1,0 +1,58 @@
+# YouTube Page Builder - Complete Requirements
+# This file includes all dependencies for the entire project
+
+# =============================================================================
+# CORE DEPENDENCIES (Required for basic functionality)
+# =============================================================================
+
+# HTTP requests and API calls
+requests>=2.31.0
+
+# Progress bars and user interface
+tqdm>=4.65.0
+
+# =============================================================================
+# AUDIO-TO-JSON DEPENDENCIES (Required for video transcription)
+# =============================================================================
+
+# Machine Learning and AI
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.20.0
+
+# Audio processing
+librosa>=0.10.0
+numpy>=1.21.0
+
+# Video downloading
+yt-dlp>=2023.12.30
+
+# =============================================================================
+# OPTIONAL DEPENDENCIES (Uncomment as needed)
+# =============================================================================
+
+# For advanced tag generation using spaCy (alternative to API)
+# spacy>=3.7.0
+# python -m spacy download en_core_web_sm
+
+# For enhanced path handling (Python < 3.4)
+# pathlib2>=2.3.7
+
+# For GPU acceleration
+# torchaudio>=2.0.0
+
+# For additional audio formats
+# soundfile>=0.12.0
+
+# =============================================================================
+# DEVELOPMENT DEPENDENCIES (Install separately: pip install -r requirements-test.txt)
+# =============================================================================
+# See requirements-test.txt for testing and development dependencies
+
+# =============================================================================
+# INSTALLATION NOTES
+# =============================================================================
+# 1. Install core dependencies: pip install -r requirements.txt
+# 2. Install test dependencies: pip install -r requirements-test.txt
+# 3. Download spaCy model (if using): python -m spacy download en_core_web_sm
+# 4. For GPU support, install PyTorch with CUDA: https://pytorch.org/
