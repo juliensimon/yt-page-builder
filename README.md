@@ -7,7 +7,6 @@
 [![Issues](https://img.shields.io/badge/Issues-Welcome-orange.svg)](https://github.com/your-username/yt-page-builder/issues)
 [![yt-dlp](https://img.shields.io/badge/yt--dlp-Latest-red.svg)](https://github.com/yt-dlp/yt-dlp)
 [![spaCy](https://img.shields.io/badge/spaCy-3.7+-orange.svg)](https://spacy.io/)
-(https://github.com/your-username/yt-page-builder/commits/main)
 [![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](https://github.com/your-username/yt-page-builder/actions)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-YouTube%20Collection-blue.svg)](https://www.julien.org/youtube/2025/index.html)
 
